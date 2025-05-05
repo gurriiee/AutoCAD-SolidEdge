@@ -30,7 +30,7 @@ This project involved designing a mechanical juicer to efficiently extract juice
 - Mechanical system design thinking
 
 <p align="center">
-  <img src="banner.png" alt="SolidJuicer Banner" />
+  <img src="banner.png" alt="Banner" />
 </p>
 
 
