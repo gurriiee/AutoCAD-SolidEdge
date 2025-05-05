@@ -1,5 +1,7 @@
 # SolidJuicer
-
+<p align="center">
+  <img src="banner.png" alt="Banner" />
+</p>
 A manually operated **Mechanical Juicer** designed using **Solid Edge** for ENGG 100 (2023 Spring), University of Regina.
 
 ## 🛠️ Tools Used
@@ -29,8 +31,5 @@ This project involved designing a mechanical juicer to efficiently extract juice
 - Real-world problem solving  
 - Mechanical system design thinking
 
-<p align="center">
-  <img src="banner.png" alt="Banner" />
-</p>
 
 
